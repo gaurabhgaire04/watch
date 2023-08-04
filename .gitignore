@@ -62,4 +62,3 @@ node_modules/
 *.log
 # Ignore README file
 README.md
-/node_modules
