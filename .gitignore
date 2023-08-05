@@ -2,63 +2,63 @@
 
 # dependencies
 /node_modules
-/.pnp
-.pnp.js
-/.env
-# testing
-/coverage
+# /.pnp
+# .pnp.js
+# /.env
+# # testing
+# /coverage
 
-# production
-/build
+# # production
+# /build
 
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+# # misc
+# .DS_Store
+# .env.local
+# .env.development.local
+# .env.test.local
+# .env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# npm-debug.log*
+# yarn-debug.log*
+# yarn-error.log*
 
-# Node.js
-node_modules/
-npm-debug.log
+# # Node.js
+# node_modules/
+# npm-debug.log
 
-# Express.js
-.env
+# # Express.js
+# .env
 
-# React
-/build/
-/node_modules/
+# # React
+# /build/
+# /node_modules/
 
-# MongoDB
-.env
+# # MongoDB
+# .env
 
-# Visual Studio Code
-.vscode/
-.settings/
+# # Visual Studio Code
+# .vscode/
+# .settings/
 
-# macOS
-.DS_Store
+# # macOS
+# .DS_Store
 
-# Logs
-log/
-*.log
+# # Logs
+# log/
+# *.log
 
-Diagrams/
+# Diagrams/
 
-# Ignore generated files
-node_modules/
-*.js
-*.js.map
-*.d.ts
+# # Ignore generated files
+# node_modules/
+# *.js
+# *.js.map
+# *.d.ts
 
-# Ignore line ending warnings
-*.d.ts-e
+# # Ignore line ending warnings
+# *.d.ts-e
 
-# Ignore logs
-*.log
-# Ignore README file
-README.md
+# # Ignore logs
+# *.log
+# # Ignore README file
+# README.md
